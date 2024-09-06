@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Login.css';
+import { NavLink } from 'react-router-dom';
 
 const Login = () => {
     const [email, setEmail] = useState('');
@@ -18,11 +19,11 @@ const Login = () => {
             <div className="login-box">
                 <div className='heading'><img src="https://apps.mgov.gov.in/Developer/falseData/mSeva.jpeg" alt="" /><h2>Company Login</h2></div>
                 <button className='mobile'>Login using mobile</button>
-                <div class="separator">
-    <div className="line"></div>
-    <span className="text">or</span>
-    <div className="line"></div>
-</div>
+                <div className="separator">
+                    <div className="line"></div>
+                    <span className="text">or</span>
+                    <div className="line"></div>
+                </div>
 
                 <form onSubmit={handleSubmit}>
                     <div className="form-group">
@@ -45,7 +46,11 @@ const Login = () => {
                             required
                         />
                     </div>
-                    <button  type="submit">Login</button>
+                    <NavLink to='/moniter' type="submit">
+                        <button type="submit" className='adarsh'>
+                            Login
+                        </button>
+                    </NavLink>
                 </form>
             </div>
 

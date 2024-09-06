@@ -76,14 +76,15 @@
     height: 300px;
     width: 300px;
 }
-.main_box .button{
+
+.main_box .button {
     position: absolute;
-    
-    top: 320px;
-    left: 1100px;
+    top: 20px;
+    right: 0;
     height: 260px;
     width: 200px;
 }
+
 .main_box .button .button1{
     position: relative;
     background-color: red;

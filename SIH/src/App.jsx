@@ -6,9 +6,6 @@ import LoginPage from './components/LoginPage';
 import Moniter from './Moniter';
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
-
-
-
 function App() {
   const router = createBrowserRouter([
     {

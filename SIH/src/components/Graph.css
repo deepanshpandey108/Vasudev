@@ -1,0 +1,15 @@
+.graph {
+    position: relative;
+    top: 373px;
+    height: 48vh;
+    width: 90vh;
+    left: 315px;
+    background: #333232;
+}
+.pie {
+    position: relative;
+    top: 12px;
+    left: 1100px;
+    width: 340px;
+    height: 370px;
+}

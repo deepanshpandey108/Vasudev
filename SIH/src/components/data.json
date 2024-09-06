@@ -1,0 +1,695 @@
+[
+    {
+        "SNo.": 1,
+        "Time": "00:10",
+        "Male_Population": 102270,
+        "Female_Population": 103792,
+        "Sex_Ratio": 101.48821746357682
+    },
+    {
+        "SNo.": 2,
+        "Time": "00:20",
+        "Male_Population": 95860,
+        "Female_Population": 100433,
+        "Sex_Ratio": 104.77049864385562
+    },
+    {
+        "SNo.": 3,
+        "Time": "00:30",
+        "Male_Population": 100390,
+        "Female_Population": 102513,
+        "Sex_Ratio": 102.114752465385
+    },
+    {
+        "SNo.": 4,
+        "Time": "00:40",
+        "Male_Population": 100191,
+        "Female_Population": 99612,
+        "Sex_Ratio": 99.4221037817768
+    },
+    {
+        "SNo.": 5,
+        "Time": "00:50",
+        "Male_Population": 100734,
+        "Female_Population": 102041,
+        "Sex_Ratio": 101.29747652232612
+    },
+    {
+        "SNo.": 6,
+        "Time": "01:00",
+        "Male_Population": 101265,
+        "Female_Population": 100555,
+        "Sex_Ratio": 99.29886930331308
+    },
+    {
+        "SNo.": 7,
+        "Time": "01:10",
+        "Male_Population": 95466,
+        "Female_Population": 93235,
+        "Sex_Ratio": 97.66304233968114
+    },
+    {
+        "SNo.": 8,
+        "Time": "01:20",
+        "Male_Population": 99426,
+        "Female_Population": 98468,
+        "Sex_Ratio": 99.03646933397702
+    },
+    {
+        "SNo.": 9,
+        "Time": "01:30",
+        "Male_Population": 100578,
+        "Female_Population": 102099,
+        "Sex_Ratio": 101.51225914215833
+    },
+    {
+        "SNo.": 10,
+        "Time": "01:40",
+        "Male_Population": 103322,
+        "Female_Population": 104670,
+        "Sex_Ratio": 101.30465922068872
+    },
+    {
+        "SNo.": 11,
+        "Time": "01:50",
+        "Male_Population": 125690,
+        "Female_Population": 95775,
+        "Sex_Ratio": 76.19937942557084
+    },
+    {
+        "SNo.": 12,
+        "Time": "02:00",
+        "Male_Population": 95769,
+        "Female_Population": 93226,
+        "Sex_Ratio": 97.34465223610981
+    },
+    {
+        "SNo.": 13,
+        "Time": "02:10",
+        "Male_Population": 101949,
+        "Female_Population": 98152,
+        "Sex_Ratio": 96.27558877477954
+    },
+    {
+        "SNo.": 14,
+        "Time": "02:20",
+        "Male_Population": 97433,
+        "Female_Population": 96585,
+        "Sex_Ratio": 99.12965832931347
+    },
+    {
+        "SNo.": 15,
+        "Time": "02:30",
+        "Male_Population": 100311,
+        "Female_Population": 98943,
+        "Sex_Ratio": 98.63624128958938
+    },
+    {
+        "SNo.": 16,
+        "Time": "02:40",
+        "Male_Population": 70035,
+        "Female_Population": 82600,
+        "Sex_Ratio": 117.94102948525737
+    },
+    {
+        "SNo.": 17,
+        "Time": "02:50",
+        "Male_Population": 101420,
+        "Female_Population": 98546,
+        "Sex_Ratio": 97.16623940051272
+    },
+    {
+        "SNo.": 18,
+        "Time": "03:00",
+        "Male_Population": 96184,
+        "Female_Population": 96210,
+        "Sex_Ratio": 100.02703152291441
+    },
+    {
+        "SNo.": 19,
+        "Time": "03:10",
+        "Male_Population": 99555,
+        "Female_Population": 98843,
+        "Sex_Ratio": 99.28481743759731
+    },
+    {
+        "SNo.": 20,
+        "Time": "03:20",
+        "Male_Population": 98385,
+        "Female_Population": 102989,
+        "Sex_Ratio": 104.67957513848656
+    },
+    {
+        "SNo.": 21,
+        "Time": "03:30",
+        "Male_Population": 152094,
+        "Female_Population": 104692,
+        "Sex_Ratio": 68.8337475508567
+    },
+    {
+        "SNo.": 22,
+        "Time": "03:40",
+        "Male_Population": 103666,
+        "Female_Population": 101873,
+        "Sex_Ratio": 98.27040688364555
+    },
+    {
+        "SNo.": 23,
+        "Time": "03:50",
+        "Male_Population": 104274,
+        "Female_Population": 100675,
+        "Sex_Ratio": 96.54851640869249
+    },
+    {
+        "SNo.": 24,
+        "Time": "04:00",
+        "Male_Population": 97558,
+        "Female_Population": 95161,
+        "Sex_Ratio": 97.54300006150187
+    },
+    {
+        "SNo.": 25,
+        "Time": "04:10",
+        "Male_Population": 102849,
+        "Female_Population": 99995,
+        "Sex_Ratio": 97.22505809487696
+    },
+    {
+        "SNo.": 26,
+        "Time": "04:20",
+        "Male_Population": 97047,
+        "Female_Population": 100629,
+        "Sex_Ratio": 103.6909950848558
+    },
+    {
+        "SNo.": 27,
+        "Time": "04:30",
+        "Male_Population": 97747,
+        "Female_Population": 104467,
+        "Sex_Ratio": 106.8748913010118
+    },
+    {
+        "SNo.": 28,
+        "Time": "04:40",
+        "Male_Population": 104167,
+        "Female_Population": 106016,
+        "Sex_Ratio": 101.77503431989017
+    },
+    {
+        "SNo.": 29,
+        "Time": "04:50",
+        "Male_Population": 104998,
+        "Female_Population": 102869,
+        "Sex_Ratio": 97.9723423303301
+    },
+    {
+        "SNo.": 30,
+        "Time": "05:00",
+        "Male_Population": 95189,
+        "Female_Population": 92869,
+        "Sex_Ratio": 97.56274359432288
+    },
+    {
+        "SNo.": 31,
+        "Time": "05:10",
+        "Male_Population": 97734,
+        "Female_Population": 101439,
+        "Sex_Ratio": 103.79090183559457
+    },
+    {
+        "SNo.": 32,
+        "Time": "05:20",
+        "Male_Population": 98005,
+        "Female_Population": 102892,
+        "Sex_Ratio": 104.98648028161827
+    },
+    {
+        "SNo.": 33,
+        "Time": "05:30",
+        "Male_Population": 99658,
+        "Female_Population": 101863,
+        "Sex_Ratio": 102.21256697906841
+    },
+    {
+        "SNo.": 34,
+        "Time": "05:40",
+        "Male_Population": 96899,
+        "Female_Population": 102916,
+        "Sex_Ratio": 106.2095584061755
+    },
+    {
+        "SNo.": 35,
+        "Time": "05:50",
+        "Male_Population": 102734,
+        "Female_Population": 103520,
+        "Sex_Ratio": 100.76508264060584
+    },
+    {
+        "SNo.": 36,
+        "Time": "06:00",
+        "Male_Population": 96267,
+        "Female_Population": 95878,
+        "Sex_Ratio": 99.5959155266083
+    },
+    {
+        "SNo.": 37,
+        "Time": "06:10",
+        "Male_Population": 96528,
+        "Female_Population": 104268,
+        "Sex_Ratio": 108.0183988065639
+    },
+    {
+        "SNo.": 38,
+        "Time": "06:20",
+        "Male_Population": 98556,
+        "Female_Population": 99887,
+        "Sex_Ratio": 101.35050123787492
+    },
+    {
+        "SNo.": 39,
+        "Time": "06:30",
+        "Male_Population": 98890,
+        "Female_Population": 99859,
+        "Sex_Ratio": 100.97987663059966
+    },
+    {
+        "SNo.": 40,
+        "Time": "06:40",
+        "Male_Population": 103839,
+        "Female_Population": 101331,
+        "Sex_Ratio": 97.58472250310577
+    },
+    {
+        "SNo.": 41,
+        "Time": "06:50",
+        "Male_Population": 100393,
+        "Female_Population": 103571,
+        "Sex_Ratio": 103.16555935174763
+    },
+    {
+        "SNo.": 42,
+        "Time": "07:00",
+        "Male_Population": 98041,
+        "Female_Population": 96215,
+        "Sex_Ratio": 98.13751389724708
+    },
+    {
+        "SNo.": 43,
+        "Time": "07:10",
+        "Male_Population": 97678,
+        "Female_Population": 102546,
+        "Sex_Ratio": 104.9837220254305
+    },
+    {
+        "SNo.": 44,
+        "Time": "07:20",
+        "Male_Population": 100426,
+        "Female_Population": 99563,
+        "Sex_Ratio": 99.14066078505567
+    },
+    {
+        "SNo.": 45,
+        "Time": "07:30",
+        "Male_Population": 101564,
+        "Female_Population": 100684,
+        "Sex_Ratio": 99.13355125831987
+    },
+    {
+        "SNo.": 46,
+        "Time": "07:40",
+        "Male_Population": 99321,
+        "Female_Population": 97621,
+        "Sex_Ratio": 98.28837808721217
+    },
+    {
+        "SNo.": 47,
+        "Time": "07:50",
+        "Male_Population": 98001,
+        "Female_Population": 100258,
+        "Sex_Ratio": 102.30303772410485
+    },
+    {
+        "SNo.": 48,
+        "Time": "08:00",
+        "Male_Population": 97996,
+        "Female_Population": 95213,
+        "Sex_Ratio": 97.16008816686396
+    },
+    {
+        "SNo.": 49,
+        "Time": "08:10",
+        "Male_Population": 102578,
+        "Female_Population": 103002,
+        "Sex_Ratio": 100.4133439918891
+    },
+    {
+        "SNo.": 50,
+        "Time": "08:20",
+        "Male_Population": 103001,
+        "Female_Population": 100263,
+        "Sex_Ratio": 97.34177338084096
+    },
+    {
+        "SNo.": 51,
+        "Time": "08:30",
+        "Male_Population": 119867,
+        "Female_Population": 98523,
+        "Sex_Ratio": 82.19359790434399
+    },
+    {
+        "SNo.": 52,
+        "Time": "08:40",
+        "Male_Population": 98486,
+        "Female_Population": 101246,
+        "Sex_Ratio": 102.80242877160207
+    },
+    {
+        "SNo.": 53,
+        "Time": "08:50",
+        "Male_Population": 101462,
+        "Female_Population": 99023,
+        "Sex_Ratio": 97.59614436932054
+    },
+    {
+        "SNo.": 54,
+        "Time": "09:00",
+        "Male_Population": 99944,
+        "Female_Population": 99523,
+        "Sex_Ratio": 99.57876410790043
+    },
+    {
+        "SNo.": 55,
+        "Time": "10:00",
+        "Male_Population": 96795,
+        "Female_Population": 101236,
+        "Sex_Ratio": 104.58804690324914
+    },
+    {
+        "SNo.": 56,
+        "Time": "10:10",
+        "Male_Population": 98654,
+        "Female_Population": 96354,
+        "Sex_Ratio": 97.66861962008636
+    },
+    {
+        "SNo.": 57,
+        "Time": "10:20",
+        "Male_Population": 102333,
+        "Female_Population": 100212,
+        "Sex_Ratio": 97.92735481223066
+    },
+    {
+        "SNo.": 58,
+        "Time": "10:30",
+        "Male_Population": 101258,
+        "Female_Population": 98920,
+        "Sex_Ratio": 97.69104663335243
+    },
+    {
+        "SNo.": 59,
+        "Time": "10:40",
+        "Male_Population": 101652,
+        "Female_Population": 96052,
+        "Sex_Ratio": 94.49100853893675
+    },
+    {
+        "SNo.": 60,
+        "Time": "10:50",
+        "Male_Population": 100425,
+        "Female_Population": 101236,
+        "Sex_Ratio": 100.80756783669405
+    },
+    {
+        "SNo.": 61,
+        "Time": "11:00",
+        "Male_Population": 99884,
+        "Female_Population": 102344,
+        "Sex_Ratio": 102.46285691402026
+    },
+    {
+        "SNo.": 62,
+        "Time": "11:10",
+        "Male_Population": 97623,
+        "Female_Population": 95053,
+        "Sex_Ratio": 97.3674236604079
+    },
+    {
+        "SNo.": 63,
+        "Time": "11:20",
+        "Male_Population": 95842,
+        "Female_Population": 100153,
+        "Sex_Ratio": 104.49802800442394
+    },
+    {
+        "SNo.": 64,
+        "Time": "11:30",
+        "Male_Population": 101845,
+        "Female_Population": 98266,
+        "Sex_Ratio": 96.48583631989789
+    },
+    {
+        "SNo.": 65,
+        "Time": "11:40",
+        "Male_Population": 100117,
+        "Female_Population": 96233,
+        "Sex_Ratio": 96.1205389694058
+    },
+    {
+        "SNo.": 66,
+        "Time": "11:50",
+        "Male_Population": 98745,
+        "Female_Population": 72365,
+        "Sex_Ratio": 73.28472327712797
+    },
+    {
+        "SNo.": 67,
+        "Time": "12:00",
+        "Male_Population": 98456,
+        "Female_Population": 39213,
+        "Sex_Ratio": 39.82794344681888
+    },
+    {
+        "SNo.": 68,
+        "Time": "12:10",
+        "Male_Population": 104081,
+        "Female_Population": 5211,
+        "Sex_Ratio": 5.006677491569066
+    },
+    {
+        "SNo.": 69,
+        "Time": "12:20",
+        "Male_Population": 96735,
+        "Female_Population": 28523,
+        "Sex_Ratio": 29.485708378559984
+    },
+    {
+        "SNo.": 70,
+        "Time": "12:30",
+        "Male_Population": 100215,
+        "Female_Population": 78523,
+        "Sex_Ratio": 78.35453774385071
+    },
+    {
+        "SNo.": 71,
+        "Time": "12:40",
+        "Male_Population": 103845,
+        "Female_Population": 94321,
+        "Sex_Ratio": 90.82863883672782
+    },
+    {
+        "SNo.": 72,
+        "Time": "12:50",
+        "Male_Population": 94862,
+        "Female_Population": 102365,
+        "Sex_Ratio": 107.9093841580401
+    },
+    {
+        "SNo.": 73,
+        "Time": "13:00",
+        "Male_Population": 98883,
+        "Female_Population": 95632,
+        "Sex_Ratio": 96.71227612430853
+    },
+    {
+        "SNo.": 74,
+        "Time": "13:10",
+        "Male_Population": 96321,
+        "Female_Population": 97523,
+        "Sex_Ratio": 101.24791063215706
+    },
+    {
+        "SNo.": 75,
+        "Time": "13:20",
+        "Male_Population": 102854,
+        "Female_Population": 96231,
+        "Sex_Ratio": 93.5607754681393
+    },
+    {
+        "SNo.": 76,
+        "Time": "13:30",
+        "Male_Population": 100432,
+        "Female_Population": 75236,
+        "Sex_Ratio": 74.91237852477298
+    },
+    {
+        "SNo.": 77,
+        "Time": "13:40",
+        "Male_Population": 99845,
+        "Female_Population": 98148,
+        "Sex_Ratio": 98.30036556662827
+    },
+    {
+        "SNo.": 78,
+        "Time": "13:50",
+        "Male_Population": 104128,
+        "Female_Population": 102365,
+        "Sex_Ratio": 98.30689151813154
+    },
+    {
+        "SNo.": 79,
+        "Time": "14:00",
+        "Male_Population": 99562,
+        "Female_Population": 97523,
+        "Sex_Ratio": 97.95202989092225
+    },
+    {
+        "SNo.": 80,
+        "Time": "14:10",
+        "Male_Population": 99871,
+        "Female_Population": 104563,
+        "Sex_Ratio": 104.69806049804247
+    },
+    {
+        "SNo.": 81,
+        "Time": "14:10",
+        "Male_Population": 98562,
+        "Female_Population": 95644,
+        "Sex_Ratio": 97.0394269596802
+    },
+    {
+        "SNo.": 82,
+        "Time": "14:20",
+        "Male_Population": 96843,
+        "Female_Population": 95123,
+        "Sex_Ratio": 98.22392945282571
+    },
+    {
+        "SNo.": 83,
+        "Time": "14:30",
+        "Male_Population": 102680,
+        "Female_Population": 98523,
+        "Sex_Ratio": 95.9514998052201
+    },
+    {
+        "SNo.": 84,
+        "Time": "14:40",
+        "Male_Population": 130589,
+        "Female_Population": 105148,
+        "Sex_Ratio": 80.51826723537204
+    },
+    {
+        "SNo.": 85,
+        "Time": "14:50",
+        "Male_Population": 101683,
+        "Female_Population": 76215,
+        "Sex_Ratio": 74.95353205550583
+    },
+    {
+        "SNo.": 86,
+        "Time": "15:00",
+        "Male_Population": 65214,
+        "Female_Population": 38523,
+        "Sex_Ratio": 59.0716717269298
+    },
+    {
+        "SNo.": 87,
+        "Time": "15:10",
+        "Male_Population": 100984,
+        "Female_Population": 79542,
+        "Sex_Ratio": 78.76693337558424
+    },
+    {
+        "SNo.": 88,
+        "Time": "15:20",
+        "Male_Population": 95191,
+        "Female_Population": 96547,
+        "Sex_Ratio": 101.42450441743442
+    },
+    {
+        "SNo.": 89,
+        "Time": "15:30",
+        "Male_Population": 104967,
+        "Female_Population": 100459,
+        "Sex_Ratio": 95.70531690912382
+    },
+    {
+        "SNo.": 90,
+        "Time": "15:40",
+        "Male_Population": 100622,
+        "Female_Population": 100888,
+        "Sex_Ratio": 100.26435570749936
+    },
+    {
+        "SNo.": 91,
+        "Time": "15:50",
+        "Male_Population": 103296,
+        "Female_Population": 82659,
+        "Sex_Ratio": 80.02149163568774
+    },
+    {
+        "SNo.": 92,
+        "Time": "16:00",
+        "Male_Population": 98654,
+        "Female_Population": 100263,
+        "Sex_Ratio": 101.6309526222961
+    },
+    {
+        "SNo.": 93,
+        "Time": "16:10",
+        "Male_Population": 99468,
+        "Female_Population": 97563,
+        "Sex_Ratio": 98.08481119556038
+    },
+    {
+        "SNo.": 94,
+        "Time": "16:20",
+        "Male_Population": 94632,
+        "Female_Population": 99648,
+        "Sex_Ratio": 105.30053258939893
+    },
+    {
+        "SNo.": 95,
+        "Time": "16:30",
+        "Male_Population": 100934,
+        "Female_Population": 105987,
+        "Sex_Ratio": 105.00624170249866
+    },
+    {
+        "SNo.": 96,
+        "Time": "16:40",
+        "Male_Population": 97623,
+        "Female_Population": 94563,
+        "Sex_Ratio": 96.86549276297593
+    },
+    {
+        "SNo.": 97,
+        "Time": "16:50",
+        "Male_Population": 96243,
+        "Female_Population": 96532,
+        "Sex_Ratio": 100.30028157892004
+    },
+    {
+        "SNo.": 98,
+        "Time": "17:00",
+        "Male_Population": 100962,
+        "Female_Population": 101256,
+        "Sex_Ratio": 100.29119866880609
+    },
+    {
+        "SNo.": 99,
+        "Time": "17:10",
+        "Male_Population": 68231,
+        "Female_Population": 66555,
+        "Sex_Ratio": 97.54363852207942
+    }
+]

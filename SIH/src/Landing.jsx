@@ -1,5 +1,6 @@
 import React from 'react'
 import './Landing.css'
+import './App.css'
 import Navbar from './components/Navbar'
 import Slideshow from './components/Slideshow'
 const Landing = () => {
@@ -13,8 +14,8 @@ const Landing = () => {
       </div>
       <div className="second">
         <div className="left1">
-          <h4>Lorem ipsum dolor sit amet.</h4>
-          <h1>AADISHAKTI</h1>
+          {/* <h4>Lorem ipsum dolor sit amet.</h4> */}
+          <h1 className='poppins-thin' >Vasudev</h1>
           <p >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis placeat excepturi pariatur eligendi, blanditiis beatae nobis harum velit, minima aut saepe aspernatur deserunt architecto molestiae nemo! Inventore fugit ad commodi.</p>
           <button className='started'>Get started</button>
         </div>

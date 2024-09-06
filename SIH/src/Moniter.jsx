@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import './style.css';
 import cities from './components/city.json';
+import Graph from './components/Graph'
+import  Piechart  from './components/Piechart';
 
 function Moniter() {
 
@@ -57,7 +59,7 @@ function Moniter() {
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
-      
+      {(city) && <><Graph/> <Piechart/></>}
     </div>
   );
 }

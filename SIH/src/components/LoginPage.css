@@ -13,6 +13,7 @@
     background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
     background-size: 16px 16px;
 }
+
 .login-box {
     background-color: #ffffff;
     padding: 40px;
@@ -20,11 +21,15 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     width: 100%;
     position: relative;
-    right: -270px;
-    max-width: 357px;
+    right: -450px;
+    max-width: 435px;
     height: 70vh;
     top: -1px;
     display: flex;
     flex-direction: column;
 }
-
+.adarsh {
+    width: 334px;
+    position: relative;
+    top: 63px;
+}
