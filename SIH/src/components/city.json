@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Bhagalpur",
+        "Chwoki": "5",
+        "man": 50,
+        "jeep":15
+    },
+    {
+        "name": "Bhagalpur",
+        "Chwoki": "5",
+        "man": 50,
+        "jeep":15
+    },
+    {
+        "name": "Zero Mile",
+        "Chwoki": "2",
+        "man": 10,
+        "jeep":5
+    },
+    {
+        "name": "Tilkamangi",
+        "Chwoki": "7",
+        "man": 15,
+        "jeep":8
+    },
+    {
+        "name": "Sabour",
+        "Chwoki": "3",
+        "man": 12,
+        "jeep":5
+    },
+    {
+        "name": "Sultanganj",
+        "Chwoki": "7",
+        "man": 30,
+        "jeep":6
+    }
+]
+
