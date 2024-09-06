@@ -1,0 +1,30 @@
+.LoginPage{
+    display: flex;
+    align-items: center;
+    
+}
+.background-pattern {
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+    background-size: 16px 16px;
+}
+.login-box {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    position: relative;
+    right: -270px;
+    max-width: 357px;
+    height: 70vh;
+    top: -1px;
+    display: flex;
+    flex-direction: column;
+}
+
