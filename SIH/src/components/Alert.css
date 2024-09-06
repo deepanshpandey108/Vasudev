@@ -1,0 +1,56 @@
+/* Basic styling for the app */
+/* .Alert {
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 100px;
+} */
+  
+  /* Alert button styling */
+  .alert-button {
+    background-color: red;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    font-size: 20px;
+    border-radius: 200px;
+    cursor: pointer;
+    animation: blink 1s infinite; /* Infinite blinking animation */
+  }
+
+  /* Blinking animation */
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  .safe-button {
+    background-color: rgb(0, 198, 10);
+    color: white;
+    padding: 15px 30px;
+    width: 148.962px;
+    border: none;
+    font-size: 20px;
+    border-radius: 200px;
+    cursor: pointer;
+    animation: blink 1s infinite; /* Infinite blinking animation */
+  }
+
+  .anomally-button {
+    background-color: rgb(227, 114, 8);
+    color: white;
+    padding: 15px 30px;
+    width: 148.962px;
+    border: none;
+    font-size: 20px;
+    border-radius: 200px;
+    cursor: pointer;
+    animation: blink 1s infinite; /* Infinite blinking animation */
+  }
+  

@@ -4,7 +4,8 @@
     height: 48vh;
     width: 90vh;
     left: 315px;
-    background: #333232;
+    background: #e8eaec;
+    /* background: #ffffff; */
 }
 .pie {
     position: relative;

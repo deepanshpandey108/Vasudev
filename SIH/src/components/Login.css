@@ -145,6 +145,6 @@ button {
     bottom: -80px; */
 }
 
-button:hover {
+.login-container button:hover {
     background-color: #0056b3;
 }
