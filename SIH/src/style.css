@@ -77,8 +77,10 @@
     top: 10px;
     left: 320px;
     height: 300px;
-    width: 300px;
+    width: 926px;
+    box-shadow: 15px 15px 5px rgba(26, 25, 25, 0.3);
 }
+
 
 .main_box .button {
     position: absolute;
