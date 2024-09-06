@@ -16,7 +16,8 @@ const Landing = () => {
         <div className="left1">
           {/* <h4>Lorem ipsum dolor sit amet.</h4> */}
           <h1 className='poppins-thin' >Vasudev</h1>
-          <p >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis placeat excepturi pariatur eligendi, blanditiis beatae nobis harum velit, minima aut saepe aspernatur deserunt architecto molestiae nemo! Inventore fugit ad commodi.</p>
+          <div className='intro'>"At Vasudev, our mission is to create a safer world for women through technology,
+             empowering them to navigate their daily lives with confidence and peace of mind."</div>
           <button className='started'>Get started</button>
         </div>
 
@@ -24,7 +25,10 @@ const Landing = () => {
       <div className="third">
         <div className="left3">
           <h1>Who are we</h1>
-          <p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt culpa ipsum architecto numquam praesentium velit nemo explicabo ab nulla? Maiores, iusto voluptatem consequatur labore esse, error inventore quam voluptate rem qui architecto explicabo aperiam in natus. Rem cumque officiis odit eaque, doloremque nisi vitae in facilis, provident necessitatibus libero ipsa.</p>
+          <h3 >Vasudev is a pioneering initiative designed to enhance women's safety through the use of cutting-edge technology. 
+            Named after Bhagwan Krishn, a symbol of protection and wisdom, Vasudev leverages advanced technological solutions to provide women with robust safety measures.
+             With a commitment to empowering women and fostering a safer society, Vasudev aims to be at the forefront of technological advancements in personal security. Through continuous monitoring and analysis of real time data, 
+            we strive to create a comprehensive solution that ensures peace of mind and protection for women everywhere.</h3>
           <button className='know'>Get to know us</button>
         </div>
         <div className="right3"><img src="https://static.vecteezy.com/system/resources/previews/003/002/539/non_2x/woman-security-and-protection-vector.jpg" alt="" /></div>
@@ -42,7 +46,7 @@ const Landing = () => {
       {/*  */}
       <Slideshow />
       <div className="sixth">
-        <div className="sixth1"><h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, facere?</h1></div>
+        <div className="sixth1"><h1>How it works ,Know more about it</h1></div>
         <div className="sixth2"><img src="https://reddotfoundation.in/assets/images/home/Safecity.jpg" alt="" /></div>
         <div class="safety">
           <h3>What is Safecity?</h3>
@@ -59,8 +63,8 @@ const Landing = () => {
               </div>
 
               <div class="safecity_name">
-                <h3>Anonymous Reporting</h3>
-                <p>Your identity is safe with us.</p>
+                <h3>Machine Learning</h3>
+                <p>Data Analysis.</p>
               </div>
             </div>
             <div class="safecity_content">
@@ -68,7 +72,7 @@ const Landing = () => {
               </div>
 
               <div class="safecity_name">
-                <h3>Geo-tagged Incidents</h3>
+                <h3>Real-Time Location Tracker</h3>
                 <p>Pinpoint the location of each reported incident.</p>
               </div>
             </div>
@@ -77,8 +81,8 @@ const Landing = () => {
               </div>
 
               <div class="safecity_name">
-                <h3>Community Engagement</h3>
-                <p>Share your stories and learn from others.</p>
+                <h3>Gender  Classification</h3>
+                <p>Real time gender distribution.</p>
               </div>
             </div>
 
@@ -89,7 +93,7 @@ const Landing = () => {
               </div>
 
               <div class="safecity_name">
-                <h3>Actionable Insights</h3>
+                <h3>Data Security and Blockchain</h3>
                 <p>Data driven solutions for safer spaces</p>
               </div>
 
@@ -98,22 +102,22 @@ const Landing = () => {
         </div>
         <div className="sixth4">
           <button className='check_out'>CHECK OUT</button>
-          <button className='check_out'>Lorem, ipsum dolor.</button>
+          <button className='check_out'>Technology</button>
         </div>
       </div>
       <div className="seventh">
         <div className="left">
           <div class="main_heading">
             <h1 class="donate_heading">Our Impact</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum itaque quas pariatur earum nemo recusandae natus ipsum, doloremque aliquam totam cupiditate reiciendis ducimus in ratione maxime commodi repellendus nihil reprehenderit.</p>
+            <p>Area to be monitor using our website</p>
           </div>
         </div>
         <div className="right7"><img src="bhagalpur-tehsil-map.jpg" alt="" /></div>
       </div>
       <div className="eigth">
         <div className="left8">
-          <img src="https://reddotfoundation.in/assets/images/footerlogo.svg" alt="" />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident tempore dolorem nihil sint, perferendis excepturi quisquam consequatur sapiente, tenetur ullam doloribus soluta error deserunt officiis, aspernatur expedita quae voluptates autem!</p>
+          <img src="vasudev.jpeg" alt="" />
+          <p>Powered by Vasudev Foundation </p>
         </div>
         <div className="right8">
           <h3>Conatct us</h3>
@@ -122,7 +126,7 @@ const Landing = () => {
               <div class="row">
                 <div class="col-md-6 p-0">
                   <div class="bootomleft">
-                    <p>© 2023 Red Dot Foundation. All rights reserved.</p>
+                    <p>© 2024 Vasudev Foundation. All rights reserved.</p>
                   </div>
 
                 </div>
