@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './style.css';
-import cities from './city.json';
+import cities from './components/city.json';
 
 function Moniter() {
 
