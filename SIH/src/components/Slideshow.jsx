@@ -5,17 +5,17 @@ const Slideshow = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
-    'Welcome to the Slideshow!',
-    'This is the second slide',
-    'Here is the third slide',
-    'Finally, the fourth slide',
+    'Every 15 Minutes a Women is Raped in India',
+    '1 in 3 Women Suffer From Sexual Violence atleast Once in Her Life',
+    '80% of cases of sexual assault are not reported to the authorities ,which creates an institutional data gap',
+    'women only represent 23% of the labour force in india',
   ];
 
   // Automatically change slides every 3 seconds
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentSlide((prevSlide) => (prevSlide + 1) % slides.length);
-    }, 3000); // 3 seconds
+    }, 4000); // 3 seconds
     return () => clearInterval(interval);
   }, [slides.length]);
 

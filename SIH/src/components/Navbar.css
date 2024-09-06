@@ -3,7 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.logo{
+    border-radius: 100%;
 
+}
 
 
 .navbar {
@@ -27,6 +30,7 @@
     text-decoration: none;
     font-size: 1.5em;
     font-weight: bold;
+    vertical-align: middle;
 }
 
 .navbar-right {

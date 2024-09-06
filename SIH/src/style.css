@@ -23,14 +23,14 @@
     box-shadow: 0 0 6px rgb(25, 25, 25);
     transition:all 0.3s linear ;
 }
-.sidebar_menu .logo{
+.sidebar_menu .cities{
     position: absolute;
     width: 100%;
     line-height: 60px;
     box-shadow: 0 2px 4px rgb(255, 255, 255,0.5);
     height: 60px;
 }
-.sidebar_menu .logo a{
+.sidebar_menu .cities a{
     position: absolute;
     left: 50px;
     color: rgb(255 255 241);
@@ -87,31 +87,3 @@
     height: 260px;
     width: 200px;
 }
-
-/* .main_box .button{
-    position: relative;
-    background-color: red;
-    border-radius: 50% ;
-    top: 30px;
-    left: 10px;
-    height: 30px;
-    width: 65px;
-} */
-/* .main_box .button .button2{
-    position: relative;
-    background-color: yellow;
-    border-radius: 50% ;
-    top: 70px;
-    left: 10px;
-    height: 30px;
-    width: 65px;
-} */
-/* .main_box .button .button3{
-    position: relative;
-    background-color: green;
-    border-radius: 50% ;
-    top: 110px;
-    left: 10px;
-    height: 30px;
-    width: 65px;
-} */

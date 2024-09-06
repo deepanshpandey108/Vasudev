@@ -13,7 +13,7 @@ function Moniter() {
   return (
     <div className="main_box">
       <div className="sidebar_menu">
-        <div className="logo">
+        <div className="cities">
           <a href="#">Cities</a>
         </div>
 

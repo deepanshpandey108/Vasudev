@@ -30,6 +30,15 @@
     right: -946px;
     width: 35vw;
 }
+.left1 .poppins-thin{
+    font-weight: 400;
+    color: black;
+}
+.left1 .intro{
+    font-size: large;
+    font-weight: 500;
+    color: red;
+}
 
 .second {
 
