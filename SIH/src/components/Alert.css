@@ -18,7 +18,7 @@
   }
 
   /* Blinking animation */
-  @keyframes blink {
+  /* @keyframes blink {
     0% {
       opacity: 1;
     }
@@ -28,7 +28,7 @@
     100% {
       opacity: 1;
     }
-  }
+  } */
 
   .safe-button {
     background-color: rgb(0, 198, 10);
