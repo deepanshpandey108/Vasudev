@@ -4,7 +4,7 @@ import "./Alert.css";
 const Safe = () => {
   return (
     <div className="safe">
-      <button className="safe-button">Safe</button>
+      <div className="safe-button center">Safe</div>
     </div>
   );
 };

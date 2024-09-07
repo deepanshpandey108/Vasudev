@@ -20,21 +20,7 @@
   }
 
   /* Blinking animation */
-<<<<<<< HEAD
-  /* @keyframes blink {
-    0% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.5;
-    }
-    100% {
-      opacity: 1;
-    }
-  } */
-=======
   
->>>>>>> a05ee277aaa1d8be97b7af2f0dd71aede4f9ee7b
 
   .safe-button {
     position: absolute;
@@ -65,4 +51,8 @@
     box-shadow: 5px 10px 10px rgba(231, 164, 6, 0.977);
      /* Infinite blinking animation */
   }
-  
+
+  .center{
+    display: flex;
+  justify-content: center;  
+}

@@ -89,3 +89,17 @@
     height: 260px;
     width: 200px;
 }
+.maptext{
+    position: fixed;
+    left:350px;
+}
+.graphtext {
+    left: 350px;
+    position: fixed;
+    top: 350px;
+}
+.pietext {
+    position: fixed;
+    top: 354px;
+    right: 6px;
+}

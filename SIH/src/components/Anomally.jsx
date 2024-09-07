@@ -3,8 +3,8 @@ import "./Alert.css";
 
 const Anomally = () => {
   return (
-    <div className="anomally">
-      <button className="anomally-button">Normal</button>
+    <div className="anomally ">
+      <div className="anomally-button center">Normal</div>
     </div>
   );
 };

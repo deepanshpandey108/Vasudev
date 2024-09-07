@@ -1,8 +1,9 @@
-.LoginPage{
+.LoginPage {
     display: flex;
     align-items: center;
-    
+
 }
+
 .background-pattern {
     position: absolute;
     inset: 0;
@@ -23,13 +24,25 @@
     position: relative;
     right: -450px;
     max-width: 435px;
-    height: 70vh;
+    height: 75vh;
     top: -1px;
     display: flex;
     flex-direction: column;
 }
+
 .adarsh {
     width: 334px;
     position: relative;
     top: 63px;
+}
+
+.LoginPage .left {
+    position: relative;
+    left: 150px;
+    border: 1px solid;
+    border-radius: 100%;
+    box-shadow: 15px 4px #b5b4b4;
+}
+.left img{
+    border-radius: 100%;
 }

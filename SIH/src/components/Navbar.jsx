@@ -12,9 +12,9 @@ const Navbar = () => {
             <div class="navbar-right">
               <NavLink to= "/"> <div class="nav-link">Home</div> </NavLink>
               <NavLink to= "/data"> <div class="nav-link">Data</div> </NavLink>
-              <NavLink to= "/login"> <div class="nav-link">About Us</div> </NavLink>
-              <NavLink to= "/login"> <div class="nav-link">Transparency</div> </NavLink>
-              <NavLink to= "/login"> <div class="nav-link">Services</div> </NavLink>
+              <NavLink to= "/login"> <div class="nav-link">Our Impact</div> </NavLink>
+              <NavLink to= "/login"> <div class="nav-link">Our Vision</div> </NavLink>
+              <NavLink to= "/login"> <div class="nav-link">About us</div> </NavLink>
               <NavLink to= "/login"> <button>Login</button> </NavLink>
             </div>
         </nav>

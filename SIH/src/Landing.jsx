@@ -36,7 +36,7 @@ const Landing = () => {
       <div className="fourth">
         <div className="left4">
           <h1>Our Mission</h1>
-          <p>We are making the world a safer place for all, especially women & girls by preventing gender-based violence through data-backed, collective action from individuals, communities, and institutions.</p>
+          <p>We are making the world a safer place for all, especially women & girls by preventing violence through Alert and SOS. </p>
         </div>
         <div className="right4">
           <h1>Our Vision</h1>
@@ -49,10 +49,8 @@ const Landing = () => {
         <div className="sixth1"><h1>How it works ,Know more about it</h1></div>
         <div className="sixth2"><img src="https://reddotfoundation.in/assets/images/home/Safecity.jpg" alt="" /></div>
         <div class="safety">
-          <h3>What is Safecity?</h3>
-          <p>Safecity is a crowd-sourced platform designed to collect anonymous reports about sexual and
-            gender-based harassment and abuse. These reports are aggregated and visualized on a map,
-            providing valuable data for individuals, communities, and policymakers.</p>
+          <h3>What does vasudev do?</h3>
+          <p>Vasudev is a platform to save womens from dangerous situations .It analyze the gender distribution and anomaly condition and gives alert to police and women.</p>
           <button className='safeexplore'>Explore safety</button>
         </div>
         <div className="sixth3">
@@ -63,8 +61,8 @@ const Landing = () => {
               </div>
 
               <div class="safecity_name">
-                <h3>Machine Learning</h3>
-                <p>Data Analysis.</p>
+                <h3>Sos Situation Alert </h3>
+                <p>Send Alert.</p>
               </div>
             </div>
             <div class="safecity_content">
@@ -118,6 +116,7 @@ const Landing = () => {
         <div className="left8">
           <img src="vasudev.jpeg" alt="" />
           <p>Powered by Vasudev Foundation </p>
+          <p>Build By Team Adishakti</p>
         </div>
         <div className="right8">
           <h3>Conatct us</h3>

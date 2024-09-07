@@ -19,9 +19,9 @@ function Moniter() {
 
         <div className="menu">
           <select className="option" onChange={(e) => { changeMap(e.target.value); setCity(e.target.selectedIndex) }}>
-            <option value="">Select a location</option>
+            <option value="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d71681.09044258056!2d86.93983431272663!3d25.248221822018806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skhalifabagh%20police%20station%20bhagalpur!5e0!3m2!1sen!2sin!4v1725461189193!5m2!1sen!2sin">Select a location</option>
             <option value="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d71681.09044258056!2d86.93983431272663!3d25.248221822018806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skhalifabagh%20police%20station%20bhagalpur!5e0!3m2!1sen!2sin!4v1725461189193!5m2!1sen!2sin">
-              Bhagalpur
+              Bhagalpur 
             </option>
             <option value="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.512234362515!2d87.01954587400812!3d25.253348629426643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f0490f17285dd7%3A0xb624cd3b9129f916!2sZero%20Mile%20Police%20Station!5e0!3m2!1sen!2sin!4v1725460751916!5m2!1sen!2sin">
               Zero Mile
@@ -55,6 +55,10 @@ function Moniter() {
         </div>
         </>
       }
+      {!city && <h1 className='maptext'>Select city for viewing Map</h1>}
+      {!city && <h1 className='graphtext'>Graph for showing SexRatio </h1>}
+      {!city && <h1 className='pietext'>Pie chart </h1>}
+
       <div className="map_container">
         <iframe
           id="mapFrame"

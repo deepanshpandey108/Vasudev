@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Line } from 'react-chartjs-2';
 import { Chart as ChartJS, CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend } from 'chart.js';
 // import jsondata from './SihRealdata.json';
-import jsondata from './data.json';
+import jsondata from './sihdata.json';
 import './Graph.css';
 // Register components with ChartJS
 ChartJS.register(CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend);
@@ -12,7 +12,7 @@ const RealTimeChart = () => {
         labels: [], // Initialize with empty labels
         datasets: [
             {
-                label: 'Dynamic Data',
+                label: 'Real time data',
                 data: [], // Initialize with empty data
                 fill: false,
                 backgroundColor: 'rgba(220 38 38 1)',
@@ -31,7 +31,7 @@ const RealTimeChart = () => {
             return; // Stop if no more data in JSON
         }
 
-        const time = jsondata[index].Time;
+        const time = jsondata[index]['SNo.'];
         const sexratio = jsondata[index].Sex_Ratio;
 
         setIndex(index + 1);
@@ -87,7 +87,7 @@ const RealTimeChart = () => {
             },
             title: {
                 display: true,
-                text: 'Real-Time Line Chart',
+                text: 'Sex Ratio Female/Male',
             },
         },
     };

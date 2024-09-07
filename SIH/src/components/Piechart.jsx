@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Pie } from 'react-chartjs-2';
 import { Chart as ChartJS, Title, Tooltip, Legend, ArcElement } from 'chart.js';
-import jsondata from './data.json';
+import jsondata from './sihdata.json';
 import './Graph.css';
 
 // Register components with ChartJS
@@ -71,7 +71,7 @@ const RealTimePieChart = () => {
             },
             title: {
                 display: true,
-                text: 'Sex Ratio Pie Chart',
+                text: 'Male and Female count',
             },
         },
     };
