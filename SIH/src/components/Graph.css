@@ -5,6 +5,7 @@
     width: 90vh;
     left: 315px;
     background: #e8eaec;
+    box-shadow: 15px 15px 5px rgba(26, 25, 25, 0.3);
     /* background: #ffffff; */
 }
 .pie {
@@ -13,5 +14,9 @@
     left: 1100px;
     width: 340px;
     height: 370px;
+<<<<<<< HEAD
     box-shadow: 10px;
+=======
+    box-shadow: 15px 15px 5px rgba(14, 175, 229, 0.3);
+>>>>>>> a05ee277aaa1d8be97b7af2f0dd71aede4f9ee7b
 }
